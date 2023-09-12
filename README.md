@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Qudus12
 - 👀 I’m interested in web3, web development
-- 🌱 I’m currently learning front end and its library
+- 🌱 I’m currently learning full stack web development  and its library
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me Phone: 07017744364
 
