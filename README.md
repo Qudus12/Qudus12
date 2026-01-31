@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Qudus12
-- 👀 I’m interested in web3, web development
+- 👋 Hi, I’m Qudus Salami
+- 👀 I’m interested in Web3, Web Wevelopment, Blockchain Security...
 - 🌱 I’m currently learning full stack web development  and its library
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me Phone: 07017744364
